@@ -2,6 +2,8 @@
 owner: yhg4908 # Your GitHub organization or username, where this repository lives
 repo: srk-uptime # The name of this repository
 
+user-agent: srk-uptime
+
 sites:
   - name: SRK 홈페이지
     url: $SRK_SITE
