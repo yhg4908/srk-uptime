@@ -7,6 +7,8 @@ user-agent: srk-uptime
 sites:
   - name: SRK 홈페이지
     url: $SRK_SITE
+    type: globalping
+    location: california
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
