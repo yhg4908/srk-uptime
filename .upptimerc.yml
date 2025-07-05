@@ -23,6 +23,8 @@ status-website:
       href: /
     - title: 서포트서버
       href: https://aztra.xyz/invite/g0nubYF0
+    - title: 봇 추가하기
+      href: https://discord.com/oauth2/authorize?client_id=1388420119415492740
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
