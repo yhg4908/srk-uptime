@@ -21,6 +21,8 @@ status-website:
   navbar:
     - title: 상태
       href: /
+    - title: 문서
+      href: https://srk.ggm.kr
     - title: 서포트서버
       href: https://aztra.xyz/invite/g0nubYF0
     - title: 봇 추가하기
