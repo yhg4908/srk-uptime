@@ -12,7 +12,7 @@ sites:
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: status.stardium.r-e.kr
+  cname: status.raonstudio.kro.kr
   # baseUrl: /your-repo-name
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Stardium uptime
@@ -22,11 +22,9 @@ status-website:
     - title: 상태
       href: /
     - title: 문서
-      href: https://srk.ggm.kr
+      href: https://srk.raonstudio.kro.kr
     - title: 서포트서버
       href: https://aztra.xyz/invite/g0nubYF0
-    - title: 봇 추가하기
-      href: https://discord.com/oauth2/authorize?client_id=1388420119415492740
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
