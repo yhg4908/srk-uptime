@@ -15,8 +15,8 @@ status-website:
   cname: status.raonstudio.kro.kr
   # baseUrl: /your-repo-name
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Stardium uptime
-  introTitle: "Stardium 서버 상태페이지"
+  name: RAONstudio uptime
+  introTitle: "RAONstudio 서버 상태페이지"
   introMessage: 상태는 완전 실시간이 아니며 업데이트 주기가 있습니다.
   navbar:
     - title: 상태
