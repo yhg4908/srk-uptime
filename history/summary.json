@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "srk",
     "status": "up",
-    "uptime": "93.06%",
+    "uptime": "93.12%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "93.06%",
-    "time": 726,
-    "timeDay": 544,
-    "timeWeek": 755,
-    "timeMonth": 703,
-    "timeYear": 726,
+    "uptimeYear": "93.12%",
+    "time": 725,
+    "timeDay": 605,
+    "timeWeek": 744,
+    "timeMonth": 702,
+    "timeYear": 725,
     "dailyMinutesDown": {
       "2025-07-22": 280,
       "2025-07-21": 1440,
@@ -22,5 +22,23 @@
       "2025-07-19": 1216,
       "2025-07-06": 486
     }
+  },
+  {
+    "name": "Discord 서버",
+    "url": "discord.com",
+    "icon": "https://icons.duckduckgo.com/ip3/null.ico",
+    "slug": "discord",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 171,
+    "timeDay": 171,
+    "timeWeek": 171,
+    "timeMonth": 171,
+    "timeYear": 171,
+    "dailyMinutesDown": {}
   }
 ]
