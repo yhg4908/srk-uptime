@@ -4,18 +4,19 @@
     "url": "$SRK_SITE",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "srk",
-    "status": "up",
-    "uptime": "94.70%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "94.74%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "94.70%",
+    "uptimeYear": "94.74%",
     "time": 712,
     "timeDay": 944,
     "timeWeek": 733,
     "timeMonth": 651,
     "timeYear": 712,
     "dailyMinutesDown": {
+      "2025-09-07": 0,
       "2025-07-22": 280,
       "2025-07-21": 1440,
       "2025-07-20": 1440,
@@ -28,7 +29,7 @@
     "url": "discord.com",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "discord",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -39,6 +40,8 @@
     "timeWeek": 130,
     "timeMonth": 155,
     "timeYear": 155,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-09-07": 0
+    }
   }
 ]
