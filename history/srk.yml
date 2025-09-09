@@ -1,7 +1,7 @@
 url: $SRK_SITE
-status: up
-code: 200
-responseTime: 785
-lastUpdated: 2025-09-08T23:09:49.837Z
+status: down
+code: 403
+responseTime: 0
+lastUpdated: 2025-09-09T19:26:53.691Z
 startTime: 2025-07-05T09:27:15.760Z
 generator: Upptime <https://github.com/upptime/upptime>
