@@ -7,10 +7,8 @@ user-agent: srk-uptime
 sites:
   - name: SRK 홈페이지
     url: $SRK_SITE
-    type: globalping
   - name: Discord 서버
     url: discord.com
-    type: globalping
     
 
 status-website:
